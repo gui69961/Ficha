@@ -18,13 +18,6 @@
 
 ---
 
-## 🖼️ Prévia
-
-<div align="center">
-
-<img src="screenshots/home.png" alt="Página inicial do FICHA, com a barra de busca, as categorias e os produtos da seção Consoles" width="100%" />
-
-</div>
 
 ---
 
